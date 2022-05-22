@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project <span id="about-the-project"></span>
 
-<img src="https://cdn.dribbble.com/users/1217824/screenshots/6054214/chefs_a_domicilio.png?compress=1&resize=800x600&vertical=top" />
+<img src="https://user-images.githubusercontent.com/101295894/169709046-856c8a2b-1555-434b-9bb7-e1a630c5f7e3.png" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -96,13 +96,34 @@ Many people suffer from the lack of sufficient skill in cooking the meals desire
 <!-- ROADMAP -->
 ## Roadmap <span id="roadmap"></span>
 
+### User system
+- [ ] Signup user 
+- [ ] Login user
+- [ ] Signout user
+
+### Data requirement
+- [ ] chef information (name/specialty/gender/etc...) with search
 - [ ] Menu to submit for renter booking details (dates, address, number of guests, etc...)
-- [ ] Confirmation email with next steps and instructions ( cooking equipment and ingredients required, Type of food, etc..) 
+
+....................................................................................................................................................................
+- demo
+
+- [ ] Confirmation email with next steps and instructions (cooking equipment and ingredients required, Type of food, etc..)
 - [ ] sale page can select into it(pay online or in person).
 - [ ] Special offers and discounts frequently updated on the home page. 
 - [ ] An opinion page where users and chefs can provide feedback.
 
+- demo
+- [ ] user testing
 
+## Finalize
+
+- [ ] Bug fixing 
+- [ ] Enhance user experience
+
+- Final demo
+
+- deployment
 
 See the [open issues](https://github.com/khaled-samy/A-private-chef-platform/issues) for a full list of proposed features (and known issues).
 
@@ -125,5 +146,3 @@ See the [open issues](https://github.com/khaled-samy/A-private-chef-platform/iss
 [stars-url]: https://github.com/khaled-samy/A-private-chef-platform/stargazers
 [issues-shield]: https://img.shields.io/github/issues/khaled-samy/A-private-chef-platform?style=for-the-badge
 [issues-url]: https://github.com/khaled-samy/A-private-chef-platform/issues
-
-[product-screenshot]: images/screenshot.png
