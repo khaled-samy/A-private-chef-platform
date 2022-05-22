@@ -51,7 +51,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Idea <span id="problem"></span>
+### The idea <span id="problem"></span>
 Many people suffer from the lack of sufficient skill in cooking the meals desired by them and sufficient for a large number of people in a suitable time... In order to solve the problem, this application was made in order to create a platform for appointing a skilled personal chef upon request and providing the appropriate service to the guests any time you want.
 
 ### Built With <span id="built-with"></span>
