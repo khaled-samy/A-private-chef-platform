@@ -26,10 +26,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
+       <li><a href="#problem">Problem</a></li>
+        <li><a href="#solution">Solution</a></li>
       <li><a href="#database-schema">Database Schema</a></li>
     </li>
+    </ul>
     <li>
       <a href="#usage">Usage</a>
       <ul>
@@ -51,8 +55,11 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### The idea <span id="problem"></span>
-Many people suffer from the lack of sufficient skill in cooking the meals desired by them and sufficient for a large number of people in a suitable time... In order to solve the problem, this application was made in order to create a platform for appointing a skilled personal chef upon request and providing the appropriate service to the guests any time you want.
+### Problem <span id="problem"></span>
+Many people suffer from the lack of sufficient skill in cooking the meals desired by them and sufficient for a large number of people in a suitable time.
+
+### Solution <span id="solution"></span>
+In order to solve the problem, this application was made in order to create a platform for appointing a skilled personal chef upon request and providing the appropriate service to the guests any time you want.
 
 ### Built With <span id="built-with"></span>
 
@@ -124,6 +131,8 @@ Many people suffer from the lack of sufficient skill in cooking the meals desire
 - Final demo
 
 - deployment
+
+
 
 See the [open issues](https://github.com/khaled-samy/A-private-chef-platform/issues) for a full list of proposed features (and known issues).
 
