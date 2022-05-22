@@ -68,7 +68,8 @@ In order to solve the problem, this application was made in order to create a pl
 * [PostgreSQL](https://www.postgresql.org/docs/)
 
 ### Database Schema <span id="database-schema"></span>
-![image](https://user-images.githubusercontent.com/78752405/169612140-1be9fd75-9a0e-480b-80c6-312f492eed46.png)
+![image](https://user-images.githubusercontent.com/101295894/169719708-bb2011e4-34ea-43c9-ac75-7fbb96eada4a.png)
+)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
